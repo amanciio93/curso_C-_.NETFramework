@@ -1,0 +1,7 @@
+C:\Users\amanc\source\repos\004_capturandoEntradas\004_capturandoEntradas\bin\Debug\004_capturandoEntradas.exe.config
+C:\Users\amanc\source\repos\004_capturandoEntradas\004_capturandoEntradas\bin\Debug\004_capturandoEntradas.exe
+C:\Users\amanc\source\repos\004_capturandoEntradas\004_capturandoEntradas\bin\Debug\004_capturandoEntradas.pdb
+C:\Users\amanc\source\repos\004_capturandoEntradas\004_capturandoEntradas\obj\Debug\004_capturandoEntradas.csproj.AssemblyReference.cache
+C:\Users\amanc\source\repos\004_capturandoEntradas\004_capturandoEntradas\obj\Debug\004_capturandoEntradas.csproj.CoreCompileInputs.cache
+C:\Users\amanc\source\repos\004_capturandoEntradas\004_capturandoEntradas\obj\Debug\004_capturandoEntradas.exe
+C:\Users\amanc\source\repos\004_capturandoEntradas\004_capturandoEntradas\obj\Debug\004_capturandoEntradas.pdb

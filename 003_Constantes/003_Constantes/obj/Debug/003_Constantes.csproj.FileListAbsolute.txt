@@ -1,0 +1,7 @@
+C:\Users\amanc\source\repos\003_Constantes\003_Constantes\bin\Debug\003_Constantes.exe.config
+C:\Users\amanc\source\repos\003_Constantes\003_Constantes\bin\Debug\003_Constantes.exe
+C:\Users\amanc\source\repos\003_Constantes\003_Constantes\bin\Debug\003_Constantes.pdb
+C:\Users\amanc\source\repos\003_Constantes\003_Constantes\obj\Debug\003_Constantes.csproj.AssemblyReference.cache
+C:\Users\amanc\source\repos\003_Constantes\003_Constantes\obj\Debug\003_Constantes.csproj.CoreCompileInputs.cache
+C:\Users\amanc\source\repos\003_Constantes\003_Constantes\obj\Debug\003_Constantes.exe
+C:\Users\amanc\source\repos\003_Constantes\003_Constantes\obj\Debug\003_Constantes.pdb

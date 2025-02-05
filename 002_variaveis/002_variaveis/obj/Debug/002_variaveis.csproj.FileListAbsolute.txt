@@ -1,0 +1,7 @@
+C:\Users\amanc\source\repos\002_variaveis\002_variaveis\bin\Debug\002_variaveis.exe.config
+C:\Users\amanc\source\repos\002_variaveis\002_variaveis\bin\Debug\002_variaveis.exe
+C:\Users\amanc\source\repos\002_variaveis\002_variaveis\bin\Debug\002_variaveis.pdb
+C:\Users\amanc\source\repos\002_variaveis\002_variaveis\obj\Debug\002_variaveis.csproj.AssemblyReference.cache
+C:\Users\amanc\source\repos\002_variaveis\002_variaveis\obj\Debug\002_variaveis.csproj.CoreCompileInputs.cache
+C:\Users\amanc\source\repos\002_variaveis\002_variaveis\obj\Debug\002_variaveis.exe
+C:\Users\amanc\source\repos\002_variaveis\002_variaveis\obj\Debug\002_variaveis.pdb
