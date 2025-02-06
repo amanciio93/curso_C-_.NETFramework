@@ -1,0 +1,7 @@
+C:\Users\amanc\source\repos\006_condicionais\006_condicionais\obj\Debug\006_condicionais.csproj.AssemblyReference.cache
+C:\Users\amanc\source\repos\006_condicionais\006_condicionais\obj\Debug\006_condicionais.csproj.CoreCompileInputs.cache
+C:\Users\amanc\source\repos\006_condicionais\006_condicionais\bin\Debug\006_condicionais.exe.config
+C:\Users\amanc\source\repos\006_condicionais\006_condicionais\bin\Debug\006_condicionais.exe
+C:\Users\amanc\source\repos\006_condicionais\006_condicionais\bin\Debug\006_condicionais.pdb
+C:\Users\amanc\source\repos\006_condicionais\006_condicionais\obj\Debug\006_condicionais.exe
+C:\Users\amanc\source\repos\006_condicionais\006_condicionais\obj\Debug\006_condicionais.pdb

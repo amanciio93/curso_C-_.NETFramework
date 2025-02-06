@@ -1,0 +1,7 @@
+C:\Users\amanc\source\repos\007_operadores_logicos\007_operadores_logicos\bin\Debug\007_operadores_logicos.exe.config
+C:\Users\amanc\source\repos\007_operadores_logicos\007_operadores_logicos\bin\Debug\007_operadores_logicos.exe
+C:\Users\amanc\source\repos\007_operadores_logicos\007_operadores_logicos\bin\Debug\007_operadores_logicos.pdb
+C:\Users\amanc\source\repos\007_operadores_logicos\007_operadores_logicos\obj\Debug\007_operadores_logicos.csproj.AssemblyReference.cache
+C:\Users\amanc\source\repos\007_operadores_logicos\007_operadores_logicos\obj\Debug\007_operadores_logicos.csproj.CoreCompileInputs.cache
+C:\Users\amanc\source\repos\007_operadores_logicos\007_operadores_logicos\obj\Debug\007_operadores_logicos.exe
+C:\Users\amanc\source\repos\007_operadores_logicos\007_operadores_logicos\obj\Debug\007_operadores_logicos.pdb
