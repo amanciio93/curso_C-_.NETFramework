@@ -1,0 +1,7 @@
+C:\Users\amanc\source\repos\008_funcoes\008_funcoes\bin\Debug\008_funcoes.exe.config
+C:\Users\amanc\source\repos\008_funcoes\008_funcoes\bin\Debug\008_funcoes.exe
+C:\Users\amanc\source\repos\008_funcoes\008_funcoes\bin\Debug\008_funcoes.pdb
+C:\Users\amanc\source\repos\008_funcoes\008_funcoes\obj\Debug\008_funcoes.csproj.AssemblyReference.cache
+C:\Users\amanc\source\repos\008_funcoes\008_funcoes\obj\Debug\008_funcoes.csproj.CoreCompileInputs.cache
+C:\Users\amanc\source\repos\008_funcoes\008_funcoes\obj\Debug\008_funcoes.exe
+C:\Users\amanc\source\repos\008_funcoes\008_funcoes\obj\Debug\008_funcoes.pdb
