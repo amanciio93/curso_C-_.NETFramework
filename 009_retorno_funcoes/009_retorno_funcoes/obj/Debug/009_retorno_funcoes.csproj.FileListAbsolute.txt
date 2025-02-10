@@ -1,0 +1,14 @@
+C:\Users\amanc\source\repos\009_retorno_funcoes\009_retorno_funcoes\bin\Debug\009_retorno_funcoes.exe.config
+C:\Users\amanc\source\repos\009_retorno_funcoes\009_retorno_funcoes\bin\Debug\009_retorno_funcoes.exe
+C:\Users\amanc\source\repos\009_retorno_funcoes\009_retorno_funcoes\bin\Debug\009_retorno_funcoes.pdb
+C:\Users\amanc\source\repos\009_retorno_funcoes\009_retorno_funcoes\obj\Debug\009_retorno_funcoes.csproj.AssemblyReference.cache
+C:\Users\amanc\source\repos\009_retorno_funcoes\009_retorno_funcoes\obj\Debug\009_retorno_funcoes.csproj.CoreCompileInputs.cache
+C:\Users\amanc\source\repos\009_retorno_funcoes\009_retorno_funcoes\obj\Debug\009_retorno_funcoes.exe
+C:\Users\amanc\source\repos\009_retorno_funcoes\009_retorno_funcoes\obj\Debug\009_retorno_funcoes.pdb
+C:\Users\amanc\OneDrive\Área de Trabalho\Labs\curso_C-_.NETFramework\009_retorno_funcoes\009_retorno_funcoes\bin\Debug\009_retorno_funcoes.exe.config
+C:\Users\amanc\OneDrive\Área de Trabalho\Labs\curso_C-_.NETFramework\009_retorno_funcoes\009_retorno_funcoes\bin\Debug\009_retorno_funcoes.exe
+C:\Users\amanc\OneDrive\Área de Trabalho\Labs\curso_C-_.NETFramework\009_retorno_funcoes\009_retorno_funcoes\bin\Debug\009_retorno_funcoes.pdb
+C:\Users\amanc\OneDrive\Área de Trabalho\Labs\curso_C-_.NETFramework\009_retorno_funcoes\009_retorno_funcoes\obj\Debug\009_retorno_funcoes.csproj.AssemblyReference.cache
+C:\Users\amanc\OneDrive\Área de Trabalho\Labs\curso_C-_.NETFramework\009_retorno_funcoes\009_retorno_funcoes\obj\Debug\009_retorno_funcoes.csproj.CoreCompileInputs.cache
+C:\Users\amanc\OneDrive\Área de Trabalho\Labs\curso_C-_.NETFramework\009_retorno_funcoes\009_retorno_funcoes\obj\Debug\009_retorno_funcoes.exe
+C:\Users\amanc\OneDrive\Área de Trabalho\Labs\curso_C-_.NETFramework\009_retorno_funcoes\009_retorno_funcoes\obj\Debug\009_retorno_funcoes.pdb

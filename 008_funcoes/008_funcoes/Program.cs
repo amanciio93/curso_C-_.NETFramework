@@ -13,6 +13,9 @@ namespace _008_funcoes
             //Executando a função declarada;
             mostraNome();
             gerarPreco("Garrafa Stanley", 55); // 55 é o parametro;
+            calcIdade(1993);
+
+            Console.ReadLine();
         }
 
         //Declarando funções - Devem ser declaradas dentro do internal class Program;
@@ -27,5 +30,9 @@ namespace _008_funcoes
             Console.WriteLine("Preço: " + preco);
         }
 
+        static void calcIdade(int anoNasc) {
+            int idade = 2025 - anoNasc;
+            Console.WriteLine("Você tem ou irá completar " + idade + " anos");
+        }
     }
 }
