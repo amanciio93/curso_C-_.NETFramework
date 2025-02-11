@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amanc\\source\\repos\\010_arrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D497414A-5552-425C-A0A1-3B4D068E1BF5}|010_arrays\\010_arrays.csproj|c:\\users\\amanc\\source\\repos\\010_arrays\\010_arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D497414A-5552-425C-A0A1-3B4D068E1BF5}|010_arrays\\010_arrays.csproj|solutionrelative:010_arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amanc\\source\\repos\\010_arrays\\010_arrays\\Program.cs",
+              "RelativeDocumentMoniker": "010_arrays\\Program.cs",
+              "ToolTip": "C:\\Users\\amanc\\source\\repos\\010_arrays\\010_arrays\\Program.cs",
+              "RelativeToolTip": "010_arrays\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T12:35:37.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
