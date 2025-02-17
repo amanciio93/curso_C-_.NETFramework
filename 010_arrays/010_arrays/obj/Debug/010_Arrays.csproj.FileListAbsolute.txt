@@ -1,0 +1,7 @@
+C:\Users\amanc\source\repos\010_Arrays\010_Arrays\bin\Debug\010_Arrays.exe.config
+C:\Users\amanc\source\repos\010_Arrays\010_Arrays\bin\Debug\010_Arrays.exe
+C:\Users\amanc\source\repos\010_Arrays\010_Arrays\bin\Debug\010_Arrays.pdb
+C:\Users\amanc\source\repos\010_Arrays\010_Arrays\obj\Debug\010_Arrays.csproj.AssemblyReference.cache
+C:\Users\amanc\source\repos\010_Arrays\010_Arrays\obj\Debug\010_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\amanc\source\repos\010_Arrays\010_Arrays\obj\Debug\010_Arrays.exe
+C:\Users\amanc\source\repos\010_Arrays\010_Arrays\obj\Debug\010_Arrays.pdb
